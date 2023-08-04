@@ -1,0 +1,8 @@
+D:\simplilearn\day-19\ThreadingOne\ThreadingOne\bin\Debug\ThreadingOne.exe.config
+D:\simplilearn\day-19\ThreadingOne\ThreadingOne\bin\Debug\ThreadingOne.exe
+D:\simplilearn\day-19\ThreadingOne\ThreadingOne\bin\Debug\ThreadingOne.pdb
+D:\simplilearn\day-19\ThreadingOne\ThreadingOne\obj\Debug\ThreadingOne.csproj.AssemblyReference.cache
+D:\simplilearn\day-19\ThreadingOne\ThreadingOne\obj\Debug\ThreadingOne.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-19\ThreadingOne\ThreadingOne\obj\Debug\ThreadingOne.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-19\ThreadingOne\ThreadingOne\obj\Debug\ThreadingOne.exe
+D:\simplilearn\day-19\ThreadingOne\ThreadingOne\obj\Debug\ThreadingOne.pdb
